@@ -1,1 +1,0 @@
-﻿[assembly: log4net.Config.XmlConfigurator(ConfigFile = "C:/Users/Andrei/Desktop/Faculta/MPP/mpp-proiect-csharp-AndreiAvram003/Triatlon/log4net.config")]
