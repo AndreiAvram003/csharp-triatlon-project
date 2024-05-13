@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wnt5//+INISfiz0a8S1eK29zjTHlmyR27HBcxon368zdC0jpsR+LwqBujY0u8N5k1iQN82yUpPxE5PhXN0vL3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrei\\Desktop\\Faculta\\MPP\\mpp-proiect-csharp-AndreiAvram003\\TriatlonNetworking\\Networking\\Networking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.data.sqlite\\9.0.0-preview.2.24128.4\\microsoft.data.sqlite.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0-preview.2.24128.4\\microsoft.data.sqlite.core.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.7\\sqlitepclraw.bundle_e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\sqlitepclraw.core\\2.1.7\\sqlitepclraw.core.2.1.7.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.7\\sqlitepclraw.lib.e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.7\\sqlitepclraw.provider.e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\bin\Debug\net7.0-windows\Service.deps.json
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\bin\Debug\net7.0-windows\Service.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\bin\Debug\net7.0-windows\Service.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\bin\Debug\net7.0-windows\Model.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\bin\Debug\net7.0-windows\Model.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.csproj.CopyComplete
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\refint\Service.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\Service.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetworking\Service\obj\Debug\net7.0-windows\ref\Service.dll

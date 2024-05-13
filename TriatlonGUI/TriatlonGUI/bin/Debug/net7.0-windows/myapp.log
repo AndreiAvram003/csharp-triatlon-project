@@ -1,0 +1,5 @@
+2024-04-01 23:11:50,180 [1] INFO Triatlon.Program - Configuration Settings for TriatlonDB Data Source=C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-java-AndreiAvram003\TriatlonDB
+2024-04-01 23:16:01,627 [1] INFO Triatlon.Program - Configuration Settings for TriatlonDB Data Source=C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-java-AndreiAvram003\TriatlonDB
+2024-04-01 23:16:01,637 [1] INFO DefaultNamespace.ParticipantDBRepo - Creating ParticipantDBRepo 
+2024-04-01 23:16:01,639 [1] INFO DefaultNamespace.ParticipantDBRepo - Entering findAll participants
+2024-04-01 23:16:01,713 [1] INFO DefaultNamespace.ParticipantDBRepo - findAll found 2 participants
