@@ -55,3 +55,17 @@ C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNe
 C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\obj\Debug\net6.0\ref\Server.dll
 C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Server.dll.config
 C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

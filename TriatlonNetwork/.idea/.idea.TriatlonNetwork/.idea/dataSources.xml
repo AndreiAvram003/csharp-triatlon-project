@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="TriatlonDB" uuid="ae02fea1-8ccd-4499-af0d-663c5b9ec950">
+    <data-source source="LOCAL" name="TriatlonDB" uuid="9dff4679-7c66-47da-9bdf-1736a9fb5336">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\\Users\\Andrei\\Desktop\\Faculta\\MPP\\mpp-proiect-java-AndreiAvram003\\TriatlonDB</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../../mpp-proiect-java-AndreiAvram003/TriatlonDB</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
