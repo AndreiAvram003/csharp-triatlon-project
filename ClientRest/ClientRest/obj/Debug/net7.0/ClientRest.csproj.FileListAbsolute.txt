@@ -1,0 +1,17 @@
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\ClientRest.exe
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\ClientRest.deps.json
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\ClientRest.runtimeconfig.json
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\ClientRest.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\ClientRest.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.csproj.CopyComplete
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\refint\ClientRest.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ClientRest.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\ClientRest\ClientRest\obj\Debug\net7.0\ref\ClientRest.dll
